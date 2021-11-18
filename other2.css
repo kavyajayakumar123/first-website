@@ -1,0 +1,44 @@
+button{
+    background-color: chartreuse;
+    width: 71%;
+    margin-left: 60px;
+}
+h2{
+    font-size: 18px;
+}
+.main{
+    background-color: black;
+    width: 550px;
+    height: 60vh;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 150px;
+    color: white;
+    background-color: rgb(29, 23, 51);
+}
+h1{
+    margin: 50px;
+    margin-top: 5px;
+    margin-left: 135px;
+}
+input{
+    margin-left: 60px;
+    width: 70%;
+    margin-top: 5px;
+}
+p{
+    margin-left: 80px;
+}
+h2{
+    margin-left: 60px;
+    font-size: 12px;
+    margin-top: 25px;
+}
+.main{
+    border-radius: 15px;
+}
+body{
+    background-image:url(./images\ \(5\).jpg);
+    background-position: center;
+    background-size: cover;
+}
